@@ -1,4 +1,4 @@
-# APRENDIZADO JS#
+# APRENDIZADO JS
 
 /* IMPORTANTE */
 Quando cria classes e exporta em uma página principal precisa gerar o json.
